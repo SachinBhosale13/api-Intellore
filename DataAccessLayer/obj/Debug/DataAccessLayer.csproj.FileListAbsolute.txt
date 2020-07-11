@@ -1,0 +1,7 @@
+D:\Sachin\Interview\Intellore_10-07-2020\Intellore\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Sachin\Interview\Intellore_10-07-2020\Intellore\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Sachin\Interview\Intellore_10-07-2020\Intellore\DataAccessLayer\bin\Debug\Models.dll
+D:\Sachin\Interview\Intellore_10-07-2020\Intellore\DataAccessLayer\bin\Debug\Models.pdb
+D:\Sachin\Interview\Intellore_10-07-2020\Intellore\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Sachin\Interview\Intellore_10-07-2020\Intellore\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Sachin\Interview\Intellore_10-07-2020\Intellore\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

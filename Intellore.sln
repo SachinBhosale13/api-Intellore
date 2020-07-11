@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intellore", "Intellore\Intellore.csproj", "{DBD67252-90E7-4146-BAD7-A1982C9889C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{DFC144F0-175B-4C3F-B187-687BBA84677F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{8BA0D76C-7070-4857-AEFF-969635FF2411}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBD67252-90E7-4146-BAD7-A1982C9889C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBD67252-90E7-4146-BAD7-A1982C9889C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBD67252-90E7-4146-BAD7-A1982C9889C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBD67252-90E7-4146-BAD7-A1982C9889C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFC144F0-175B-4C3F-B187-687BBA84677F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC144F0-175B-4C3F-B187-687BBA84677F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC144F0-175B-4C3F-B187-687BBA84677F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC144F0-175B-4C3F-B187-687BBA84677F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BA0D76C-7070-4857-AEFF-969635FF2411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA0D76C-7070-4857-AEFF-969635FF2411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA0D76C-7070-4857-AEFF-969635FF2411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA0D76C-7070-4857-AEFF-969635FF2411}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
